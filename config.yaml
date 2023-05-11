@@ -2,9 +2,9 @@
  # MCP Variables: Set your account, dataset, datafield and SSC name variables
  # =============================================================================
 ---
- account: # sfdemo.us-1
- dataset: # nto
- uid_campaign: # Slack User Profile ID Lookup
- promo_campaign: # Next Best Action - SST
- promo_datafield: # promos
- uid_datafield: # attributes
+ account: dkuo523016613.us-6
+ dataset: engage
+ uid_campaign: Slack User Profile ID Lookup
+ promo_campaign: Next Best Action - SST
+ promo_datafield: promotions
+ uid_datafield: attributes
