@@ -6,5 +6,5 @@
  dataset: engage
  uid_campaign: Slack User Profile ID Lookup
  promo_campaign: Next Best Action - SST
- promo_datafield: promotions
+ promo_datafield: promos
  uid_datafield: attributes
